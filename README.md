@@ -12,7 +12,7 @@ Windows + Qt 5.14.2
 
 ## 4.1、获取源码
 ```shell
-git clone https://github.com/Cohen0415/network_debugging_assistant.git
+git clone https://github.com/Cohen0415/YunQue-NetTool.git
 ```
 
 ## 4.2、使用 Qt Creator 打开工程
